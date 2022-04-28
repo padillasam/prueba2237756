@@ -1,0 +1,1 @@
+console.log("tabajo con arreglos")
